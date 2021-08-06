@@ -1,2 +1,1 @@
-web: java -jar target/Mflix-1.0-SNAPSHOT.war
-port:80
+web: java $JAVA_OPTS -jar target/dependency/webapp-runner.jar --port $PORT target/*.war
