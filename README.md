@@ -1,4 +1,4 @@
-# Mflix 5.0
+# Mflix 6.0
 ##Data
 Dữ liệu trên MongoAtlas
 ```
